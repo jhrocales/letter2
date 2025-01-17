@@ -16,7 +16,7 @@ body {
 
 .card {
   width: 93%;
-  max-width: 840px;
+  max-width: 740px;
   aspect-ratio: 16 / 10;
   position: absolute;
   margin: auto;
