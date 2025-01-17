@@ -123,3 +123,12 @@ body {
    text-align:left;
 }
 
+@media screen and (max-width: 480px) {
+  .inside p {
+    font-size: 1.5rem; /* Increase the font size */
+    line-height: 1.8; /* Adjust the line height for readability */
+  }
+  .front p {
+    font-size: 2.5rem; /* Increase the font size on the front */
+  }
+}
