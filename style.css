@@ -125,7 +125,7 @@ body {
 
 @media screen and (max-width: 320px) {
   .inside p {
-    font-size: 1.5rem; /* Increase the font size */
+    font-size: 1.8rem; /* Increase the font size */
     line-height: 1.8; /* Adjust the line height for readability */
   }
   .front p {
